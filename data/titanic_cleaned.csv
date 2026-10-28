@@ -1,0 +1,9 @@
+age              float64
+sib_sp             int64
+parch              int64
+ticket            object
+fare             float64
+embarked        category
+cabin_known         bool
+age_imputed         bool
+dtype: object
